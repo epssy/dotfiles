@@ -8,6 +8,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'christoomey/vim-tmux-navigator'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'ntpeters/vim-better-whitespace'
+Plugin 'editorconfig/editorconfig-vim'
 Plugin 'fatih/vim-go'
 call vundle#end()
 
